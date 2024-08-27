@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -23,6 +24,10 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# book_collection
+Repo that contains my book collection app
+>>>>>>> babce74a81cd5171d4331b7abfd36e612f9766c6
 =======
 # book_collection
 Repo that contains my book collection app
